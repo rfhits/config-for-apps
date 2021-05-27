@@ -1,3 +1,3 @@
 # VsCode
 
-`Ctrl+;`: jump to line, based to vim 
+`Ctrl+;`: jump to line, based on vim 
