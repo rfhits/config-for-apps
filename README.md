@@ -23,6 +23,13 @@ dns:
 
 [教程-CSDN](https://blog.csdn.net/xjc2998310890/article/details/116356978)
 
+我又改了一点：
+
+- `caps` + `h`: `cmd` + `left_arrow`，跳转到行首
+- `caps` + `u`: `opt` + `left_arrow`，左走一个单词
+- `caps` + `;`: `cmd` + `right_arrow`，跳转到行末
+- `caps` + `o`: `opt` + `right_arrow`，右走一个单词
+
 json文件如下
 
 ```json
